@@ -14,7 +14,7 @@ public class Background : MonoBehaviour
 
     void Start()
     {
-        screenWidth=800;
+        screenWidth=855;//800->855
         screenHeight=1500;
         newBackgroundSize= new Vector2(800f,1500f);
 
